@@ -1,3 +1,4 @@
-USTH Image Processing 2026
+USTH: Digital Image Processing, 2026
 ==============================
-Nguyễn Xuân Hiển | 2410299
+- Name: Nguyễn Xuân Hiển
+- Student ID: 2410299
